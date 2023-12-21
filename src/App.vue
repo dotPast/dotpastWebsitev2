@@ -10,7 +10,7 @@ import ShortDesc from './components/ShortDesc.vue'
       <div class="wrapper">
       
         <ShortDesc toptext="dotPast" bottomtext="Almost matches the defenition of nerd"/>
-        <h6>  he/him</h6>
+        <h6 style="text-align: center;">  he/him</h6>
       
       </div>
     </article>
