@@ -22,8 +22,10 @@ import AboutItem from './AboutItem.vue'
 
     <article>󰗃 - <a href="https://youtube.com/@dotpast" target="_blank">@dotpast</a> - YouTube. probably dead but that a later problem</article>
     <article> - <a href="https://twitch.tv/dotpast" target="_blank">@dotpast</a> - Twitch. Definetly more alive than YouTube</article>
+    <article>󰊤 - <a href="https://github.com/dotPast" target="_blank">dotPast</a> - GitHub. Even the source code of this thing is over there</article>
     <article>󰫑 - <a href="https://mastodon.social/@dotpast" target="_blank">@dotpast</a> - Mastodon. Open-source Twitter i guess</article>
     <article>󰕄 - <a href="https://twitter.com/ImDotPast" target="_blank">@ImDotPast</a> - Twitter. The bird app itself where i only read</article>
+
   </AboutItem>
 
 </template>
