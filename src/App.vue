@@ -16,6 +16,7 @@ import ShortDesc from './components/ShortDesc.vue'
     </article>
   </header>
   <RouterView/>
+  <a rel="me" href="https://mas.to/@dotpast" style="opacity:0;">Mastodon</a>
 </template>
 
 <style scoped>
