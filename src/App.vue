@@ -5,7 +5,7 @@ import ShortDesc from './components/ShortDesc.vue'
 
 <template>
   <header>
-    <article style="margin-right: 1em;">
+    <article>
       <img alt="dotPast Logo" class="logo" src="@/assets/logo.png" width="125" height="125" style="margin-bottom: 0;"/>
       <div class="wrapper">
       
